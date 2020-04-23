@@ -1,0 +1,12 @@
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\EasyEx.Cmd.exe.config
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\EasyEx.Cmd.exe
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\EasyEx.Cmd.pdb
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\EasyEx.Bll.dll
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\EasyEx.Core.dll
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\EasyEx.Bll.pdb
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\EasyEx.Core.pdb
+F:\Projects\EasyEx\EasyEx.Cmd\bin\Debug\Newtonsoft.Json.xml
+F:\Projects\EasyEx\EasyEx.Cmd\obj\Debug\EasyEx.Cmd.csprojResolveAssemblyReference.cache
+F:\Projects\EasyEx\EasyEx.Cmd\obj\Debug\EasyEx.Cmd.exe
+F:\Projects\EasyEx\EasyEx.Cmd\obj\Debug\EasyEx.Cmd.pdb
